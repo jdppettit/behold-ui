@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "jquery": ">=3.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.28",
     "popper.js": "^1.16.1",
     "prop-types": "^15.7.2",
